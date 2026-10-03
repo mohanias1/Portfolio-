@@ -156,9 +156,13 @@ Learn → Build → Test → Improve → Share
 
 I’m always interested in connecting with developers, recruiters, students, and technology enthusiasts.
 
-* 💼 LinkedIn: 
-* 💻 GitHub: 
-* 🌐 Portfolio:
+* 💼 LinkedIn:https://www.linkedin.com/in/mohan-rao-chunduru-a9740a377
+
+* 💻 GitHub: https://share.google/vul2sicgwc5P88uzE
+  
+* 🌐 Portfolio:https://dev-mohan-pro.preview.emergentagent.com/?utm_source=share
+
+
 * 📧 Email:mohanraochunduru1811@gmail.com
 
 ⸻
@@ -172,3 +176,14 @@ Keep Learning • Keep Building • Keep Innovating 🚀
 ⸻
 
 💻 “Turning ideas into technology, one project at a time.”
+
+Live Demo link:https://dev-mohan-pro.preview.emergentagent.com/?utm_source=share
+
+Screenshots:
+
+
+Output:
+
+
+
+Demo Video:
